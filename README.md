@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Anjan 👋
 
-<!--
-**anjankumar-dev/anjankumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Enthusiast & Full-Stack Developer   
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Java, JavaScript, SQL  
+- **Backend:** Spring Boot, REST APIs, Node.js (basic)  
+- **Frontend:** React, HTML, CSS, Bootstrap  
+- **Databases:** MySQL, MongoDB, H2  
+- **Tools:** Git, GitHub, Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+## 🌱 Currently Learning
+- Advanced Spring Boot  
+- Microservices architecture  
+- Full-Stack project deployment  
+
+📫 Connect with me: [LinkedIn](www.linkedin.com/in/anjan-kumar-gogu-66a985291).
