@@ -10,7 +10,8 @@
  **Tools:** Git, GitHub, Maven
 
 ## 📌 Featured Projects
-1. [Smart Task Management CLI App](https://github.com/anjankumar-dev/smart-task-manager) 
+1. [Smart Task Management CLI App](https://github.com/anjankumar-dev/smart-task-manager)
+2. Employee Management Application (https://github.com/anjankumar-dev/employee-management)
 
 ## 🌱 Currently Learning
 1. Advanced Spring Boot  
