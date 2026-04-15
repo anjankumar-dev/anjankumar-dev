@@ -1,6 +1,6 @@
 # Hi, I'm Anjan 👋
 
-🚀 Java Enthusiast & Full-Stack Developer   
+🚀 Java Enthusiast & Software Developer   
 
 ## 💻 Tech Stack
  **Languages:** Java, JavaScript, SQL  
