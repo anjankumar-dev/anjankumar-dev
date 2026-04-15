@@ -6,7 +6,7 @@
  **Languages:** Java, JavaScript, SQL  
  **Backend:** Spring Boot, REST APIs, Node.js (basic)  
  **Frontend:** React, HTML, CSS, Bootstrap  
- **Databases:** MySQL, MongoDB, H2  
+ **Databases:** MySQL, H2  
  **Tools:** Git, GitHub, Maven
 
 ## 📌 Featured Projects
