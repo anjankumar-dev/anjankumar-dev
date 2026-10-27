@@ -18,7 +18,7 @@
 
 ## 📌 Featured Projects
 1. [Smart Task Management CLI App](https://github.com/anjankumar-dev/smart-task-manager)
-2. [Employee Management Application](https://github.com/anjankumar-dev/employee-management)
+2. [Employee Management System](https://github.com/anjankumar-dev/employee-management)
 3. [Portfolio](https://github.com/anjankumar-dev/portfolio)
 4. [Quiz Microservices Application](https://github.com/anjankumar-dev/quiz-microservices-application)
 5. [AircraftManagementSystem](https://github.com/anjankumar-dev/AircraftManagementSystem.git)
